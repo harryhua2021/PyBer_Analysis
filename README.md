@@ -7,7 +7,7 @@ The purpose of this project is to perform a detailed analysis using ride-sharing
 # Results
 Using analysis and aggregation of PyBers ride-sharing data, I created a statistical overview by leveraging the dataframe.
 
-![Alt text](Resources/Screen Shot 2022-01-29 at 2.35.54 PM.png)
+![Alt text](PyBer_Analysis/Resources/Screen Shot 2022-01-29 at 2.35.54 PM.png)
 
 ## By reviewing the summary, we can see that there are several key findings, including:
 * Urban areas have the highest ridership while rural areas have the least.
